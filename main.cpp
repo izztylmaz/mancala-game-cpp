@@ -4,7 +4,7 @@
  * Player class - DONE
  * Game functionality - DONE
  * MiniMax - DONE
- * Alpha-Beta tuning - DONE
+ * Alpha-Beta pruning - DONE
  * OpenGL
  * */
 
